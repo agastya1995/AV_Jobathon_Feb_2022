@@ -1,5 +1,7 @@
 **Introduction**
 
+[On February 11th, 2022, Analytics Vidhya conducted a 3-day hackathon in data science](https://datahack.analyticsvidhya.com/contest/job-a-thon-february-2022/?utm_source=datahack&utm_medium=navbar#About). The top candidates had the chance to be selected by various participating companies across a multitude of roles, in the field of data science, analytics and business intelligence.
+
 The objective of the hackathon was to develop a machine learning approach to predict the engagement between a user and a video. The training data already had an engagement score feature, which was a floating-point number between 0 and 5. This considerably simplified matters, as in recommender systems, calculating the engagement score is often more challenging than predicting them. The challenge, therefore, was to predict this score based on certain user related and video related features.
 
 The list of features in the dataset is given below:
